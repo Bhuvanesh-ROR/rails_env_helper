@@ -16,9 +16,9 @@ Gem::Specification.new do |spec|
 
   spec.metadata = {
     "allowed_push_host"   => 'https://rubygems.org',
-    "homepage_uri"     => 'https://github.com/Bhuvanesh-ROR/schedule_master',
-    "source_code_uri" => 'https://github.com/Bhuvanesh-ROR/schedule_master',
-    "changelog_uri"      => 'https://github.com/Bhuvanesh-ROR/schedule_master/blob/main/CHANGELOG.md',
+    "homepage_uri"     => 'https://github.com/Bhuvanesh-ROR/rails_env_helper',
+    "source_code_uri" => 'https://github.com/Bhuvanesh-ROR/rails_env_helper',
+    "changelog_uri"      => 'https://github.com/Bhuvanesh-ROR/rails_env_helper/blob/main/CHANGELOG.md',
   }
 
 
