@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description   = "Simplify working with environment variables in a Ruby on Rails application."
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
-  spec.add_dependency "rails", "~> 6.0"
+  # spec.add_dependency "rails", "~> 6.0"
 
   spec.metadata = {
     "allowed_push_host"   => 'https://rubygems.org',
